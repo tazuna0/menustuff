@@ -1,0 +1,13 @@
+.flex-container1 {
+    display: flex;
+    background-color: cornflowerblue;
+    justify-content: flex-end;
+}
+
+
+
+.flex-container2 {
+    display: flex;
+    border-bottom: 1px solid gray;
+    justify-content: space-evenly;
+}
